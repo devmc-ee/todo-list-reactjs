@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# TODO List with Reactjs
+
+Simple App that fetches todo list https://jsonplaceholder.typicode.com/ and performs basic CRUD operations with mocked
+data. 
+
+There is a storybook for each component.
+
+Used Material UI lib for styling
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
