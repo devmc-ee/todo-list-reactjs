@@ -1,0 +1,30 @@
+.TodoListPage{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.todoFiltersBar{
+    display: flex;
+    justify-content: space-between;
+}
+.filter-by-user-id-select{
+    width: 200px;
+}
+
+.addTodoBar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.isHidden{
+    display: none;
+}
+.addTodoItemInput{
+    width: 85%;
+    padding: 10px;
+    margin: 20px;
+}
+.addTodoItemButton{
+    margin: 20px;
+    padding: 20px;
+}
